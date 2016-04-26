@@ -1,0 +1,35 @@
+/* user defined styles for landing page*/
+/* http://colorhunt.co/c/13607 */
+
+body {
+	background: #EA4961;
+}
+
+h1, h2 {
+	color: #FCCEAA;
+}
+
+h5, label, li {
+	color: white;
+}
+
+ul, li {
+	list-style-type: square !important;
+}
+
+ul {
+	padding-left: 5em;
+}
+
+a {
+	color: #FCCEAA;
+}
+
+.extended-label {
+	padding-bottom: 50px;
+}
+
+[type="checkbox"].filled-in:checked+label:after {
+	border: 2px solid #9BB899;
+	background-color: #9BB899;
+}
