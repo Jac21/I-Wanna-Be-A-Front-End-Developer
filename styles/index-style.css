@@ -25,6 +25,10 @@ a {
 	color: #FCCEAA;
 }
 
+a:hover {
+	border-bottom: 2px solid #9BB899;
+}
+
 .extended-label {
 	margin-bottom: 50px;
 }
